@@ -1,0 +1,5 @@
+ParkingLocations,ChargingInfrastructure,ParkingStartTime,ParkingEndTime,BatteryPercentage,DistanceFromHome,TrafficConditions,VehiclePerformance,ChargingTimeRequired,ChargingStartTime
+Home,1,07:00 AM,08:30 AM,80,5,Low,Tuned,60,09:00 AM
+Work,1,09:00 AM,05:00 PM,60,10,Moderate,Regular,90,05:30 PM
+Gym,0,06:00 PM,07:30 PM,75,8,High,HighPerformance,45,08:00 PM
+Home,1,08:30 PM,10:00 PM,85,5,Low,Tuned,60,10:30 PM
